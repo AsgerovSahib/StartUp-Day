@@ -1,0 +1,75 @@
+* {
+  font-family: Poppins;
+}
+header .div-img {
+  position: relative;
+  height: 145px;
+}
+header h1 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%; /* 39px */
+  letter-spacing: -0.3px;
+}
+.container90 {
+  width: 90%;
+  margin: auto;
+}
+.container100 {
+  width: 100%;
+  margin: auto;
+}
+
+.companentInput {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 22px;
+}
+section form {
+  margin-top: 38px;
+}
+input {
+  border-radius: 10px;
+  border: 1px solid #d8dadc;
+  padding: 18px 16px;
+  background: #fff;
+  color: rgba(0, 0, 0, 0.8);
+
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 125%; /* 20px */
+}
+textarea {
+  border-radius: 10px;
+  border: 1px solid #d8dadc;
+  padding: 18px 16px;
+  background: #fff;
+  color: rgba(0, 0, 0, 0.8);
+
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 125%; /* 20px */
+}
+.formBtn {
+  margin-top: 28px;
+  border-radius: 10px;
+  padding: 17px 152px;
+  background: #000;
+  color: #fff;
+
+  text-align: center;
+  font-family: Inter;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 125%; /* 20px */
+  letter-spacing: 5px;
+}
